@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Lukasz Wojcik",
+      "authorEmail": "lukasz.wojcik@smtsoftware.com",
+      "authorUrl": ""
+    }
+  }
+}
