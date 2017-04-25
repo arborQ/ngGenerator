@@ -29,4 +29,4 @@ import { UiModule } from 'bx-ui';
 
     ]
 })
-export class <%= displayName %>Module { }
+export default class <%= displayName %>Module { }
